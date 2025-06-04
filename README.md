@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Behind the Test – Episode 1: Spotify
 
 ## **Testing Like a Real User (No Login)**
@@ -139,3 +140,6 @@ Found this approach valuable? Have suggestions or questions about the testing st
 **Let's connect and discuss professional QA practices!**
 
 > This project demonstrates production-ready test automation practices. Feel free to explore the code, suggest improvements, or share your own testing approaches! 🧪 
+=======
+# SpotfyTest
+>>>>>>> 2ac543ca03c3e6a0bd88f6393d090dbf168f3be5
