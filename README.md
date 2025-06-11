@@ -116,7 +116,7 @@ All test evidence is automatically captured in the `docs/` directory, including:
 
 ## 📺 **Watch the Episode**
 
-🎬 **[TODO: Episode 1 Video Link - Releasing on June 13, 2025!]**
+🎬 **[TODO: Episode 1 Video Link - Releasing on June 19, 2025!]**
 
 *Watch the complete breakdown of this test implementation, including the strategic thinking behind each decision, common pitfalls to avoid, and advanced Playwright techniques that make this test production-ready.*
 
